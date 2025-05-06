@@ -1,6 +1,6 @@
 # Prodigy-robot-solar-TFG
 
-Vídeos Demo:
+Vídeo Demo:
 
 - **Prodigy: Mobile Robot Line Follower and Solar Tracker**  
 
