@@ -1,2 +1,3 @@
 # Prodigy-robot-solar-TFG
-Código y documentación de TFG – Robot móvil solar
+
+Contiene imágenes del proceso de desarrollo, montaje del prototipo y resultados finales. Este material sirve para documentar visualmente el avance del proyecto.
